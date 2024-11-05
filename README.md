@@ -1,6 +1,7 @@
 ##Projeto em codeceptJS - Login na página Qazando E-commerce:  https://automationpratice.com.br/login#!
 
-##Contato: Cristina Donária Eccher
+##Contato: Cristina Donária Eccher - 
+LinkedIN:  [https://www.linkedin.com/in/cristinadeccher](url)
 
 #Scenario1: Login com Sucesso
 #Scenario2: Tentando Logar apenas com o e-mail
